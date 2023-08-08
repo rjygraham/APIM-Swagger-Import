@@ -1,6 +1,6 @@
 # API Managment IaC Swagger Import
 
-This repo demonstrates how to import a Swagger definition into Azure API Management using Bicep IaC.
+This repo demonstrates how to import a Swagger definition into Azure API Management using Bicep.
 
 ### Deploy
 
